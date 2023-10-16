@@ -8,5 +8,6 @@
 # Diagonal pixelated lines background with colors from color palette of main image
 
 # A little music player with jade harley songs shuffling (ask sunny for playlist)
+## https://spotify.link/edo21wChDDb
 
 # natur  blogging farger blå grønn  ^_^ silly girl dog girl grrr cartoons data science
